@@ -31,7 +31,7 @@
     },
     "dependencies": {
         "@luma.gl/engine": "^8.5.20",
-        "@luma.gl/webgl": "^8.5.20",
+        "@luma.gl/webgl": "^9.0.26",
         "@types/crypto-js": "^4.1.1",
         "@types/uuid": "^9.0.2",
         "crypto-js": "^4.1.1",
