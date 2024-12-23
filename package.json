@@ -30,7 +30,7 @@
         "node-test": "node ./test/dev-test.js"
     },
     "dependencies": {
-        "@luma.gl/engine": "^8.5.20",
+        "@luma.gl/engine": "^9.0.28",
         "@luma.gl/webgl": "^9.0.27",
         "@types/crypto-js": "^4.1.1",
         "@types/uuid": "^10.0.0",
